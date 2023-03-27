@@ -14,6 +14,8 @@ make clean
 
 ## Instruções para rodar cara programa
 
+Troque o 'x' pelo número do programa desejado (1, 2, 3)
+
 ```
-./prog*x*
+./progx
 ```
